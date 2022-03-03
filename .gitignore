@@ -1,0 +1,5 @@
+/output
+/.vscode
+/.pytest_cache
+/__pycache__
+/data/data_final_181007.zip
